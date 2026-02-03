@@ -23,10 +23,16 @@
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}">arXiv</a>
       {% endif %}
-      {% if post.codeurl %}
+      
+      {% if post.bibtexurl %}
         {% if post.paperurl %} | {% endif %}
+        <a href="{{ post.bibtexurl }}">bibtex</a>
+      {% endif %}
+
+      {% if post.codeurl %}
+        {% if post.paperurl or post.bibtexurl %} | {% endif %}
         <a href="{{ post.codeurl }}">code</a>
       {% endif %}
-      </div>
+    </div>
   </div>
 </div>
