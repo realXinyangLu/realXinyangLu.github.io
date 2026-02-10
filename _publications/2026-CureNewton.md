@@ -3,7 +3,7 @@ title: "Batch and Sequential Unlearning for Neural Networks"
 collection: publications
 category: _2026
 permalink: /publication/2026-CureNewton
-authors: 'Nhung Bui*, </b>Xinyang Lu*</b>, Rachael Hwee Ling Sim, See-Kiong Ng, Bryan Kian Hsiang Low'
+authors: 'Nhung Bui*, <b>Xinyang Lu*</b>, Rachael Hwee Ling Sim, See-Kiong Ng, Bryan Kian Hsiang Low'
 venue: "ICLR, 2026"
 teaser: "/images/teasers/newton.png"
 paperurl: 'https://arxiv.org/abs/2406.14507'
