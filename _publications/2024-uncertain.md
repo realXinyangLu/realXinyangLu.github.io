@@ -2,6 +2,7 @@
 title: "Can llms express their uncertainty? an empirical evaluation of confidence elicitation in llms"
 collection: publications
 category: _2024
+date: 2024-01-30
 permalink: /publication/2024-uncertain
 authors: 'Miao Xiong, Zhiyuan Hu, <b>Xinyang Lu</b>, Yifei Li, Jie Fu, Junxian He, Bryan Hooi'
 venue: "ICLR, 2024"

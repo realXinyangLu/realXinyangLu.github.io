@@ -2,6 +2,7 @@
 title: "An exploratory study of reactions to bot comments on GitHub"
 collection: publications
 category: _2022
+date: 2022-01-30
 permalink: /publication/2022-github
 authors: 'Juan Carlos Farah, Basile Spaenlehauer, <b>Xinyang Lu</b>, Sandy Ingram, Denis Gillet'
 venue: "BotSE workshop, 2022" 

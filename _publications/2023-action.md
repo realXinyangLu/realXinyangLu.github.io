@@ -2,6 +2,7 @@
 title: "Action and trajectory planning for urban autonomous driving with hierarchical reinforcement learning"
 collection: publications
 category: _2023
+date: 2023-01-30
 permalink: /publication/2023-action
 authors: '<b>Xinyang Lu</b>, Flint Xiaofeng Fan, Tianying Wang'
 venue: "ICML workshop, 2023"

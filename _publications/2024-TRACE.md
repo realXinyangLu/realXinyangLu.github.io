@@ -2,6 +2,7 @@
 title: "TRACE: TRansformer-based Attribution using Contrastive Embeddings in LLMs"
 collection: publications
 category: _2024
+date: 2024-01-30
 permalink: /publication/2024-TRACE
 authors: 'Cheng Wang, <b>Xinyang Lu</b>, See-Kiong Ng, Bryan Kian Hsiang Low'
 venue: "Preprint, 2024"

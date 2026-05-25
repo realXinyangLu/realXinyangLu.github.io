@@ -2,6 +2,7 @@
 title: "Global-to-Local Support Spectrums for Language Model Explainability"
 collection: publications
 category: _2024
+date: 2024-01-30
 permalink: /publication/2024-global
 authors: 'Lucas Agussurja, <b>Xinyang Lu</b>, Bryan Kian Hsiang Low'
 venue: "Preprint, 2024"
