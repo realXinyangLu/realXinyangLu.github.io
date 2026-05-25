@@ -23,8 +23,8 @@ You can find my CV here: [Xinyang Lu CV](../assets/Xinyang%20Lu%20CV.pdf)
   {% capture post_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   
   {% if post_year != current_year %}
-    {% assign current_year = post_year %}
-    <h3 style="border-bottom: 1px solid #eee; padding-bottom: 5px; margin-top: 30px;">{{ current_year }}</h3>
+  {% assign current_year = post_year %}
+  <h3 style="border-bottom: 1px solid #eee; padding-bottom: 5px; margin-top: 30px;">{{ current_year }}</h3>
   {% endif %}
 
   {% include pub-row.html %}
