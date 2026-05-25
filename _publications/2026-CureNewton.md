@@ -1,5 +1,5 @@
 ---
-title: "Batch and Sequential Unlearning for Neural Networks"
+title: "How to Cure Newton for Unlearning Neural Networks? An Empirical Study from the Hessian Perspective"
 collection: publications
 category: _2026
 permalink: /publication/2026-CureNewton
